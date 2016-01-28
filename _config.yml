@@ -1,6 +1,6 @@
 name: DoSell Growth Hacking
 favicon: null
-layout_spectrum: 0.96813
+layout_spectrum: 0.43543
 typography_spectrum: 0.134
 title: 'Best, curated articles, tools of Growth Hacking - Digital Marketing'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#1a1727'
     - '#ff5c57'
     - '#696b7a'
-  brandStrength: 0.5625
-  lightness: 0.5992934089154005
+  brandStrength: 0.625
+  lightness: 0.5
   saturation: 0.9305483035277575
   rhythmicContrast: 0.9609112974721938
 purpose: []
