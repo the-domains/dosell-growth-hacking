@@ -6,12 +6,12 @@ color:
     - '#A89860'
     - '#C0A870'
     - '#000000'
-  brandStrength: 0.546453
-  lightness: 0.63598
+  brandStrength: 0.650338
+  lightness: 0.685811
   rhythmicContrast: 0.5625
   saturation: 0.767736
 cta: {}
-layout_spectrum: 0.873311
+layout_spectrum: 0.918074
 name: DoSell Growth Hacking
 opengraph: {}
 purpose: []
