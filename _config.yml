@@ -1,20 +1,4 @@
-name: DoSell Growth Hacking
-favicon: null
-layout_spectrum: 0.1037
-typography_spectrum: 0.23762
-title: 'BEST, CURATED ARTICLES, TOOLS OF GROWTH HACKING - DIGITAL MARKETING'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#D0C8B8'
@@ -24,6 +8,11 @@ color:
     - '#000000'
   brandStrength: 0.75
   lightness: 0.875
-  saturation: 0.5625
   rhythmicContrast: 0.5625
+  saturation: 0.5625
+cta: {}
+layout_spectrum: 0.118243
+name: DoSell Growth Hacking
+opengraph: {}
 purpose: []
+typography_spectrum: 0.23762
