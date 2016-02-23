@@ -4,7 +4,7 @@
         <description><![CDATA[DoSell Growth Hacking]]></description>
         <link>https://thegrid.ai/dosell-growth-hacking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 20:03:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 20:04:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dosell-growth-hacking/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ease the capacity problem of B2B service industry Today!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/dosell-growth-hacking/ease-the-capacity-problem-of-b2b-service-industry-today/index.html</link>
             <guid isPermaLink="false">df6d6cfc-100e-4024-8217-93078d8e59c9</guid>
             <pubDate>Sun, 31 Jan 2016 12:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Do You Do B2B Lead Management in Salesforce + HubSpot?]]></title>
+            <description><![CDATA[<article><h1>How Do You Do B2B Lead Management in Salesforce + HubSpot?</h1><p>I'm hoping to get an assist from this community. I'm looking for anyone that has great experience with B2B lead management in Salesforce + HubSpot. If you're someone that knows this topic well, I would love your first-hand knowledge on the questions below: How do you automate and assign leads when they have become "Marketing Qualified"?</p><img src="https://d1ts43dypk8bqh.cloudfront.net/v1/avatars/826549a8-f06e-4cbb-b609-543adfdd1591?s=220&d=blank"></article>]]></description>
+            <link>http://growthhackers.stfi.re/questions/how-do-you-do-b2b-lead-management-in-salesforce-hubspot?sf=dybjrz</link>
+            <guid isPermaLink="false">346640b2-412d-478e-9cf9-541eebde9005</guid>
+            <pubDate>Tue, 23 Feb 2016 20:03:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Tools Early-Stage Startups Actually Need to Understand Their Customers]]></title>
@@ -68,13 +75,6 @@
             <link>http://growthhackers.stfi.re/growth-studies/how-stripe-marketed-to-developers-so-effectively?sf=klvwnx</link>
             <guid isPermaLink="false">5e4d2c0e-4b8c-4b10-a2b3-391a1e39c8d2</guid>
             <pubDate>Mon, 08 Feb 2016 17:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GROWTHVERSE | Marketing Landscape]]></title>
-            <description><![CDATA[<article><h1>GROWTHVERSE | Marketing Landscape</h1><p>An interactive visualization of the marketing universe. With input from over 100 CMOs Growthverse represents a taxonomy of the marketing technology ecosystem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18235c2a03a852c091fe9dd74ab8db11ead717ff.png"></article>]]></description>
-            <link>http://www.growthverse.com/overview</link>
-            <guid isPermaLink="false">9b8ca739-73df-47f7-bc80-c53f7a0f5a6f</guid>
-            <pubDate>Fri, 05 Feb 2016 15:59:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
