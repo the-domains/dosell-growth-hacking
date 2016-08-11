@@ -1,17 +1,17 @@
-typography_spectrum: 0.23762
+typography_spectrum: 0.32568776817061007
 color:
   brandColors:
-    - '#D0C8B8'
-    - '#000000'
-    - '#888080'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.75
-  lightness: 0.875
-  rhythmicContrast: 0.5625
-  saturation: 0.5625
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.2805201532319188
+  lightness: 0.8215351006947458
+  rhythmicContrast: 0.5392198641784489
+  saturation: 0.320824095280841
 opengraph: {}
-layout_spectrum: 0.118243
+layout_spectrum: 0.7463329352904111
 analytics: {}
 name: DoSell Growth Hacking
 cta: {}
