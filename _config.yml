@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.23762
 color:
   brandColors:
     - '#D0C8B8'
@@ -10,9 +10,10 @@ color:
   lightness: 0.875
   rhythmicContrast: 0.5625
   saturation: 0.5625
-cta: {}
-layout_spectrum: 0.118243
-name: DoSell Growth Hacking
 opengraph: {}
+layout_spectrum: 0.118243
+analytics: {}
+name: DoSell Growth Hacking
+cta: {}
+title: Curated Growth Hacking
 purpose: []
-typography_spectrum: 0.23762
