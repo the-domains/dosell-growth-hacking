@@ -19,5 +19,8 @@ navigation:
   - name: Open Innovation Platform
     url: 'http://www.labsharegroup.com/'
     type: external
+  - name: Business Architecture
+    url: 'http://www.buildventure.net/'
+    type: external
 title: Curated Growth Hacking
 purpose: []
