@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Apr 2017 05:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2017 05:43:33 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Apr 2017 05:43:18 GMT</pubDate>
+        <pubDate>Tue, 18 Apr 2017 05:43:28 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Cold Sales Email Bible (With Templates)]]></title>
+            <description><![CDATA[<article><h1>The Cold Sales Email Bible (With Templates)</h1><p>Apr 7th, 2017 by Sean Bestor Be real. How many times has this happened to you: Ouch. YOU thought it was a great email, but the person on the other end thought otherwise. You know you can provide value. But your emails aren&apos;t telling that story. And that is immensely frustrating.</p><img src="https://media.sumo.com/storyimages/8c7e48b5-3331-4ba3-ae11-93db7450ab91"></article>]]></description>
+            <link>https://sumo.com/stories/cold-email-templates?utm_campaign=Submission&amp;utm_medium=Community&amp;utm_source=GrowthHackers.com</link>
+            <guid isPermaLink="false">555c230d-9f77-43be-ac18-14acb1f7cb50</guid>
+            <pubDate>Tue, 18 Apr 2017 05:43:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sales Training Courses: Sales Hacker + LeadFuze]]></title>
             <description><![CDATA[<article><h1>Sales Training Courses: Sales Hacker + LeadFuze</h1><p>Predictable Revenue, sales hacking, and now account-based everything have massively impacted the sales profession over the last 10 years. As the profession continues to evolve at a rapid clip, current and future sales leaders must constantly self-educate with sales training courses in order to remain on the cutting edge.</p><img src="https://www.leadfuze.com/wp-content/uploads/2017/04/sales-training-courses.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://techcrunch.com/2017/02/27/2017-crowdfunding-guide/</link>
             <guid isPermaLink="false">13498afa-4085-4dfe-9c41-338eab2532dc</guid>
             <pubDate>Tue, 28 Feb 2017 08:15:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Investment Project Portal]]></title>
-            <description><![CDATA[<article><h1>European Investment Project Portal</h1><p>Or are you an investor looking for investment opportunities in areas such as energy efficiency, transport, healthcare, renewable energy, broadband infrastructure or in financing SMEs? The European Investment Project Portal (EIPP) will offer you a broad choice of viable projects.</p><img src="https://ec.europa.eu/eipp/media/img/home_TRANS.jpg"></article>]]></description>
-            <link>https://ec.europa.eu/eipp/desktop/en/index.html</link>
-            <guid isPermaLink="false">ba625ca9-61aa-472d-a64b-ab8567918dd5</guid>
-            <pubDate>Tue, 28 Feb 2017 08:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
