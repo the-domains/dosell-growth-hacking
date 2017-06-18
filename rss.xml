@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Jun 2017 17:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2017 17:32:01 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jun 2017 17:31:29 GMT</pubDate>
+        <pubDate>Sun, 18 Jun 2017 17:31:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Strategyzer's Value Proposition Canvas Explained]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FReM1uqmVfP0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DReM1uqmVfP0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FReM1uqmVfP0%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/ReM1uqmVfP0</link>
+            <guid isPermaLink="false">72a7212b-838a-45de-b26c-f65db12e4763</guid>
+            <pubDate>Sun, 18 Jun 2017 17:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to create customer profiles / buyer personas for B2B Sales -]]></title>
             <description><![CDATA[<article><h1>How to create customer profiles / buyer personas for B2B Sales -</h1><p>Here are some thought provoking questions for you. How many times have you started a new job and within the first week you are trained and educated about the customer. What jobs the customer have. What pains they want to avoid and what gains they are looking for.</p><img src="https://www.daniel-one.com/wp-content/uploads/2016/11/How-to-create-customer-profiles-buyer-personas-for-B2B-Sales.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.leadfuze.com/sales-training-courses/</link>
             <guid isPermaLink="false">97c819f9-b347-4127-9e26-49325afc609d</guid>
             <pubDate>Tue, 18 Apr 2017 05:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Ultimate Guide to Startup Recruitment - Rocketshp]]></title>
-            <description><![CDATA[<article><h1>The Ultimate Guide to Startup Recruitment - Rocketshp</h1><p>by Mark Hayes March 26, 2017 Has your startup has reached the point where you need to make your first hire? Or maybe you made such a mess of your last hire, that you want to figure out how you can get it right this time around.</p><img src="https://d999fck76qb3o.cloudfront.net/wp-content/uploads/2017/03/conference-room.jpg"></article>]]></description>
-            <link>https://rocketshp.com/startup-recruitment/?inf_contact_key=93f49c6c0db37690171a221b17a0be1dd8b83c759ebbb2867e2ad53d9da62677</link>
-            <guid isPermaLink="false">bde785d2-c96e-4824-a47a-41478b561e8b</guid>
-            <pubDate>Mon, 27 Mar 2017 06:18:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
