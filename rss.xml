@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Jun 2017 17:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2017 17:32:16 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jun 2017 17:31:36 GMT</pubDate>
+        <pubDate>Sun, 18 Jun 2017 17:31:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[Customer Success: 4A's - The Power of One or Many?]]></title>
+            <description><![CDATA[<article><h1>Customer Success: 4A&apos;s - The Power of One or Many?</h1><p>Slides: In B2B marketing and sales, how can you best win your market and delight your customers? Is it going deep one customer at a time? Or focusing all of your energy on a land grab; getting more new customers from whom you later extract value?</p><img src="http://www.startupsecrets.com/wp-content/uploads/Power-of-One-Graphics-01.png"></article>]]></description>
+            <link>http://www.startupsecrets.com/the-power-of-one-or-many</link>
+            <guid isPermaLink="false">e970012b-0973-442e-a911-dd26e7e9ee03</guid>
+            <pubDate>Sun, 18 Jun 2017 17:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Strategyzer's Value Proposition Canvas Explained]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FReM1uqmVfP0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DReM1uqmVfP0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FReM1uqmVfP0%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -69,13 +76,6 @@
             <link>http://m.nasdaq.com/article/amazons-focus-on-artificial-intelligence-is-the-next-big-revenue-driver-cm774598</link>
             <guid isPermaLink="false">eb31a22e-48e8-445e-8780-2106bd5183fd</guid>
             <pubDate>Fri, 05 May 2017 06:37:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sales Training Courses: Sales Hacker + LeadFuze]]></title>
-            <description><![CDATA[<article><h1>Sales Training Courses: Sales Hacker + LeadFuze</h1><p>Predictable Revenue, sales hacking, and now account-based everything have massively impacted the sales profession over the last 10 years. As the profession continues to evolve at a rapid clip, current and future sales leaders must constantly self-educate with sales training courses in order to remain on the cutting edge.</p><img src="https://www.leadfuze.com/wp-content/uploads/2017/04/sales-training-courses.png"></article>]]></description>
-            <link>https://www.leadfuze.com/sales-training-courses/</link>
-            <guid isPermaLink="false">97c819f9-b347-4127-9e26-49325afc609d</guid>
-            <pubDate>Tue, 18 Apr 2017 05:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
