@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Jun 2017 07:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2017 15:08:45 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2017 07:00:22 GMT</pubDate>
+        <pubDate>Tue, 27 Jun 2017 15:07:22 GMT</pubDate>
+        <item>
+            <title><![CDATA[Free Social Media Advertising Guide]]></title>
+            <description><![CDATA[<article><h1>Free Social Media Advertising Guide</h1><p>A comprehensive overview of the leading social media advertising platforms Facebook, Instagram, Twitter, Pinterest, LinkedIn, and Snapchat</p><img src="http://v.fastcdn.co/u/beb60d38/13383528-0-icon-udacity.png"></article>]]></description>
+            <link>http://dmnd.udacity.com/ebook</link>
+            <guid isPermaLink="false">dcfa8dc8-4927-4e7b-947b-2e8290ebbd15</guid>
+            <pubDate>Tue, 27 Jun 2017 15:07:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[To Grow Faster, Hit Pause - and Ask These Questions from Stripe's COO]]></title>
             <description><![CDATA[<article><h1>To Grow Faster, Hit Pause - and Ask These Questions from Stripe&apos;s COO</h1><p>is growing at breakneck speed, and it has been for years. At the beginning of last year, it had 350 employees. Now, having freshly moved into Dropbox&apos;s old digs South of Market, it&apos;s at 750. But according to COO Claire Hughes Johnson , the biggest challenge the company faces isn&apos;t bringing enough new people on board.</p><img src="https://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/kOZCh3HzQ6WgZ4rcaEu1_Claire%20highres%20%281%29.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/20VD-bC18g8</link>
             <guid isPermaLink="false">e3268e67-868a-48ce-9fe9-980827f5f2a8</guid>
             <pubDate>Wed, 17 May 2017 09:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Growth Marketing Tools, Techniques & Secrets for 2017 - Growth Insights #2]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNxm70iqKbB4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNxm70iqKbB4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNxm70iqKbB4%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://youtu.be/Nxm70iqKbB4</link>
-            <guid isPermaLink="false">d4ef7ef6-344e-4d8b-809a-255cbc7e7507</guid>
-            <pubDate>Fri, 05 May 2017 06:38:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
