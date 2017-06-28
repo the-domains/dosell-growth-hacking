@@ -11,7 +11,7 @@ keywords:
   - community visualization
   - ...
 title: 'Lead Generation Techniques & Data Visualization Tools - Growth Insights #5'
-dateModified: '2017-06-28T11:11:27.349Z'
+dateModified: '2017-06-28T11:11:30.794Z'
 publisher:
   name: YouTube
   domain: youtu.be
@@ -30,13 +30,13 @@ description: >-
   hacks our team has come across over the past few weeks., all under 7 minutes
   on a tri-weekly basis.
 via: {}
-datePublished: '2017-06-28T11:11:28.704Z'
+datePublished: '2017-06-28T11:11:32.300Z'
 starred: true
-datePublishedOriginal: '2017-06-28T11:11:28.704Z'
+datePublishedOriginal: '2017-06-28T11:11:32.300Z'
 sourcePath: >-
   _posts/2017-06-28-lead-generation-techniques-and-data-visualization-tools-grow.md
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-1mMoO0UZ_E%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-1mMoO0UZ_E&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-1mMoO0UZ_E%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-1mMoO0UZ_E%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-1mMoO0UZ_E&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-1mMoO0UZ_E%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
