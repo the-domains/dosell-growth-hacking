@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Jul 2017 05:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2017 05:16:04 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Jul 2017 05:15:45 GMT</pubDate>
+        <pubDate>Fri, 21 Jul 2017 05:15:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[Data Dashboard & Social Listening Tool - Growth Insights #6]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fc-Khy_HSHTo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc-Khy_HSHTo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fc-Khy_HSHTo%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/c-Khy_HSHTo</link>
+            <guid isPermaLink="false">3ba97331-c1de-4673-8b8d-23f8006a5900</guid>
+            <pubDate>Fri, 21 Jul 2017 05:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Growth Guide: How to Set Up, Staff and Scale a Growth Program]]></title>
             <description><![CDATA[<article><h1>Growth Guide: How to Set Up, Staff and Scale a Growth Program</h1><p>&quot;Growth hacks&quot; can be extremely helpful in driving viral growth early in a product&apos;s path to product market fit. However, sustaining long-term growth and reaching hundreds of millions of users requires a scientific approach to growth. In fact, growth experts resoundingly say that &quot;growth hacking&quot; is</p><img src="http://blog.ycombinator.com/wp-content/uploads/2017/07/growth-guide.png"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://www.daniel-one.com/2016/11/19/customer-profiles-buyer-personas-b2b/?utm_campaign=Submission&amp;utm_medium=Community&amp;utm_source=GrowthHackers.com</link>
             <guid isPermaLink="false">97fa7aa0-373c-430a-a7c8-499428b38fea</guid>
             <pubDate>Sun, 18 Jun 2017 17:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ursula Ayrout | Getting To Your First 100 Customers And Beyond | Heavybit]]></title>
-            <description><![CDATA[<article><h1>Ursula Ayrout | Getting To Your First 100 Customers And Beyond | Heavybit</h1><p>And then finally, I really wanted to learn more about the developer experience and learn how to sell to developers and market to developers. And, I actually joined a Heavybit company called and I spent two years there. And, I was hired to be the VP of Marketing Pantheon but I also did two years of sales as well.</p><img src="http://www.heavybit.com/wp-content/uploads/2017/03/ursula-ayrout-getting-to-your-first-100-customers-and-beyond.jpg"></article>]]></description>
-            <link>http://www.heavybit.com/library/video/getting-to-your-first-100-customers-and-beyond/</link>
-            <guid isPermaLink="false">5e39e3da-1ffa-4900-bd84-944c8a39382a</guid>
-            <pubDate>Sun, 18 Jun 2017 17:31:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
