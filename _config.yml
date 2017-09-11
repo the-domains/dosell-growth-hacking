@@ -1,42 +1,50 @@
-typography_spectrum: 0.6614218456670642
-content_rating:
-  adult: false
-color:
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.142018013400957
-  lightness: 0.7643703380599618
-  saturation: 0.42319846944883466
-  rhythmicContrast: 0.2765155902598053
+name: LabShare Business
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6474ee-823f-4a7a-9596-b7b9f0b578bf.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/597f7bf7-a00c-46fb-8983-6ccc191ef765.png
+layout_spectrum: 0.6045753223475733
+typography_spectrum: 0.7508076195084111
+cta: {}
+analytics: {}
 opengraph:
   type: ''
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ff0053-8e0f-4a07-bb29-5c2d564d4f81.jpg
-layout_spectrum: 0.6044167676009238
-analytics: {}
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.7014680025449004
+  lightness: 0.21362421376031296
+  saturation: 0.8180614586517511
+  rhythmicContrast: 0.12516020676748144
+purpose:
+  - type: contact
+    label: Contact me
+    url: 'mailto:tibor.zahorecz@dosell.io'
+  - type: external
+    label: Global Market Access
+    url: 'https://www.labsharegroup.com/'
+title: LabShare Business
+description: 'Digital Marketing, Growth Hacking, B2B Sales'
 author:
   name: Tibor Zahorecz
   url: 'https://www.labsharegroup.com/'
   email: tibor.zahorecz@dosell.io
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/597f7bf7-a00c-46fb-8983-6ccc191ef765.png
-name: LabShare Business
-cta: {}
+content_rating:
+  adult: false
 navigation:
-  - name: Open Innovation Platform
+  - name: Software Security Experts
     url: 'https://www.labsharegroup.com/'
     type: external
   - name: Business Architecture
     url: 'http://www.buildventure.net/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6474ee-823f-4a7a-9596-b7b9f0b578bf.png
-title: LabShare Business
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -46,33 +54,19 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/165a0d1c9f3465438e8ffb362a40e64461a1ea0d.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
+      '@context': 'http://schema.org'
       isBasedOnUrl: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e5476136b3796d15c36aa38c3ecc0d56/noop.jpg?input=http%3A%2F%2F1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com%2Fwp-content%2Fuploads%2F2016%2F11%2FSan-Fransokyo-780x462.jpg
-      datePublished: null
+      keywords: []
+      publisher:
+        name: .s3-us-west-2.amazonaws.com
+        domain: imgflo.herokuapp.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
-description: 'Digital Marketing, Growth Hacking, B2B Sales'
-purpose:
-  - type: contact
-    url: 'mailto:tibor.zahorecz@dosell.io'
-    label: Contact me
-  - type: external
-    url: 'https://www.labsharegroup.com/'
-    label: Global Market Access
-url: 'https://labshare.business/'
 github: true
