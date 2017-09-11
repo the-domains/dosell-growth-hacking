@@ -1,10 +1,23 @@
+layout_spectrum: 0.603262054244296
+typography_spectrum: 0.1510860830195027
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.5691156885742514
+  lightness: 0.8334055723877863
+  saturation: 0.6095407698178977
+  rhythmicContrast: 1
+coverPrefs:
+  filter: false
 name: LabShare Business
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a6474ee-823f-4a7a-9596-b7b9f0b578bf.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/597f7bf7-a00c-46fb-8983-6ccc191ef765.png
-layout_spectrum: 0.6045753223475733
-typography_spectrum: 0.7508076195084111
 cta: {}
 analytics: {}
 opengraph:
@@ -12,17 +25,6 @@ opengraph:
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/87ff0053-8e0f-4a07-bb29-5c2d564d4f81.jpg
-color:
-  brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  brandStrength: 0.7014680025449004
-  lightness: 0.21362421376031296
-  saturation: 0.8180614586517511
-  rhythmicContrast: 0.12516020676748144
 purpose:
   - type: contact
     label: Contact me
