@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Sep 2017 06:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2017 06:24:23 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Sep 2017 06:23:53 GMT</pubDate>
+        <pubDate>Fri, 22 Sep 2017 06:23:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[10 ways Machine Learning is influencing the customer journey]]></title>
+            <description><![CDATA[<article><h1>10 ways Machine Learning is influencing the customer journey</h1><p>As a business development person in a Machine Learning company, I get confronted every day with the changes happening in the roles of sales. As organizations evolve to become ready for the disruption of automation, there&apos;s a growing need to understand what these technologies can and cannot do.</p><img src="https://monkeylearn.com/blog/wp-content/uploads/2017/09/Image-uploaded-from-iOS-1.jpg"></article>]]></description>
+            <link>https://monkeylearn.com/blog/machine-learning-on-the-customer-journey/</link>
+            <guid isPermaLink="false">d1a8b3d7-e791-4e8e-bac0-fcede20cc08b</guid>
+            <pubDate>Fri, 22 Sep 2017 06:23:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Habit Behind This Founder's Fast Financings, Product Development and Book Deal]]></title>
             <description><![CDATA[<article><h1>The Habit Behind This Founder&apos;s Fast Financings, Product Development and Book Deal</h1><p>The night received his final term sheet for MissionU&apos;s Series A investment he put his fundraise on hold. The round for his newly launched college alternative startup was oversubscribed in less than three weeks. Most founders dream of being in this situation, but Braun had more calls to make.</p><img src="https://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/9TaW4TNWSeu5RmijUP81_Adam%20Braun_MissionU%204.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/</link>
             <guid isPermaLink="false">b39b9f29-39be-4af2-8c7c-3883c4e763b0</guid>
             <pubDate>Wed, 21 Jun 2017 07:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Customer Success: 4A's - The Power of One or Many?]]></title>
-            <description><![CDATA[<article><h1>Customer Success: 4A&apos;s - The Power of One or Many?</h1><p>Slides: In B2B marketing and sales, how can you best win your market and delight your customers? Is it going deep one customer at a time? Or focusing all of your energy on a land grab; getting more new customers from whom you later extract value?</p><img src="http://www.startupsecrets.com/wp-content/uploads/Power-of-One-Graphics-01.png"></article>]]></description>
-            <link>http://www.startupsecrets.com/the-power-of-one-or-many</link>
-            <guid isPermaLink="false">e970012b-0973-442e-a911-dd26e7e9ee03</guid>
-            <pubDate>Sun, 18 Jun 2017 17:31:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
