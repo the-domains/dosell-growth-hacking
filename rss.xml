@@ -4,9 +4,16 @@
         <description><![CDATA[LabShare Business]]></description>
         <link>http://labshare.business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Sep 2017 06:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2017 15:46:12 GMT</lastBuildDate>
         <atom:link href="http://labshare.business/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Sep 2017 06:23:55 GMT</pubDate>
+        <pubDate>Tue, 26 Sep 2017 15:45:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[Artificial Intelligence Tools & Cold Emailing Tips - Growth Insights #8]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmCp5zYl3hD4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmCp5zYl3hD4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmCp5zYl3hD4%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/mCp5zYl3hD4</link>
+            <guid isPermaLink="false">11f21a5a-7794-4151-8c15-9d6effbfdf38</guid>
+            <pubDate>Tue, 26 Sep 2017 15:45:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 ways Machine Learning is influencing the customer journey]]></title>
             <description><![CDATA[<article><h1>10 ways Machine Learning is influencing the customer journey</h1><p>As a business development person in a Machine Learning company, I get confronted every day with the changes happening in the roles of sales. As organizations evolve to become ready for the disruption of automation, there&apos;s a growing need to understand what these technologies can and cannot do.</p><img src="https://monkeylearn.com/blog/wp-content/uploads/2017/09/Image-uploaded-from-iOS-1.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://dmnd.udacity.com/ebook</link>
             <guid isPermaLink="false">dcfa8dc8-4927-4e7b-947b-2e8290ebbd15</guid>
             <pubDate>Tue, 27 Jun 2017 15:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To Grow Faster, Hit Pause - and Ask These Questions from Stripe's COO]]></title>
-            <description><![CDATA[<article><h1>To Grow Faster, Hit Pause - and Ask These Questions from Stripe&apos;s COO</h1><p>is growing at breakneck speed, and it has been for years. At the beginning of last year, it had 350 employees. Now, having freshly moved into Dropbox&apos;s old digs South of Market, it&apos;s at 750. But according to COO Claire Hughes Johnson , the biggest challenge the company faces isn&apos;t bringing enough new people on board.</p><img src="https://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/kOZCh3HzQ6WgZ4rcaEu1_Claire%20highres%20%281%29.jpg"></article>]]></description>
-            <link>http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo/</link>
-            <guid isPermaLink="false">b39b9f29-39be-4af2-8c7c-3883c4e763b0</guid>
-            <pubDate>Wed, 21 Jun 2017 07:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
